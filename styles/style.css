@@ -310,7 +310,7 @@ ol {
 }
 
 .content__card-link:active .content__video-card-title,
-.content__card-link:active .content__video-card-description  {
+.content__card-link:active .content__video-card-description {
   text-decoration: unset;
 }
 
